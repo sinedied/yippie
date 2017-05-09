@@ -13,7 +13,7 @@ This generator extends [Yeoman](https://yeoman.io) base generator with all the b
 
 First install the dependency:
 ```bash
-npm install -S yippie
+npm install --save yippie
 ```
 
 Then create a new generator like this:
