@@ -1,7 +1,7 @@
 # yippie
 
 [![NPM version](https://img.shields.io/npm/v/yippie.svg)](https://www.npmjs.com/package/yippie)
-[![Build status](https://img.shields.io/travis/yippie/master.svg)](https://travis-ci.org/yippie)
+[![Build status](https://img.shields.io/travis/sinedied/yippie/master.svg)](https://travis-ci.org/sinedied/yippie)
 ![Node version](https://img.shields.io/badge/node-%3E%3D6.0.0-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
